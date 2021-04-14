@@ -1,10 +1,10 @@
-# Github Finder - React class components
+# Github Finder Refactored - React Hooks, Context Api
 
-- In traversy Media Course we learned how to use react class components, lifecycle like componentDidMount. 
+This is a refactored project from : https://github.com/danielofaustino/github-finder
 
-- We are going to refactor this project using hooks and functions.
+Here I'm using React hooks (useState, useEffect), and using only functions not classes.
 
-- I use this repository to consult.
+We will use yet Context Api to control states.
 
 ### 🛠 Tecnologies
 
