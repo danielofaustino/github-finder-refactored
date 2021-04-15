@@ -1,10 +1,13 @@
 # Github Finder Refactored - React Hooks, Context Api
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fbb8252-83c8-43b3-a770-6d8c126c5db4/deploy-status)](https://app.netlify.com/sites/hopeful-elion-9920f4/deploys)
+
+
 This is a refactored project from : https://github.com/danielofaustino/github-finder
 
 Here I'm using React hooks (useState, useEffect), and using only functions not classes.
 
-We will use yet Context Api to control states.
+We will use yet Context Api to use Global States.
 
 ### 🛠 Tecnologies
 
