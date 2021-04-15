@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3fbb8252-83c8-43b3-a770-6d8c126c5db4/deploy-status)](https://app.netlify.com/sites/hopeful-elion-9920f4/deploys)
 
+- [Live Demo](https://dan-github-finder.netlify.app/)
+
 
 This is a refactored project from : https://github.com/danielofaustino/github-finder
 
