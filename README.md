@@ -5,7 +5,7 @@
 
 This is a refactored project from : https://github.com/danielofaustino/github-finder
 
-Here I'm using React hooks (useState, useEffect), and using only functions not classes.
+Here I'm using React hooks (useState, useEffect,useContext), and using only functions not classes.
 
 We will use yet Context Api to use Global States.
 
